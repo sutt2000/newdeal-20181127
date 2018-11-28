@@ -19,7 +19,7 @@ public class App {
         1, 자바 프로젝트 실습     , 2019-01-02 ~ 2019-05-28, 1000
         2, 자바 프로그래밍 기초    , 2019-02-01 ~ 2019-02-28,  160
         3, 자바 프로그래밍 고급    , 2019-03-02 ~ 2019-03-30,  160*/
-    final int DEFAULT_SIZE = 20;
+    final int DEFAULT_SIZE = 1;
 
 
     int[] no = new int[DEFAULT_SIZE] ;    
